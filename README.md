@@ -2,14 +2,10 @@ CowsNBulls
 ===============
 The numerical version of bulls and cows game.
 
-[![][2]][1]
-
 ## How to play
 The computer chooses a number and you must find it. When you try a number you
 will receive feedback. You will know how many digits exists in the computer's
-secret number and how many of them are in the correct position.
-
-You can play this game [**here**][1].
+secret number and how many of them are in the correct position..
 
 ## How to contribute
 1. File an issue in the repository, using the bug tracker, describing the
